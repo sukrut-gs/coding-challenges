@@ -1,3 +1,5 @@
+/* This function takes an array of numbers and prints sub-arrays having sum 0 */
+
 function getArray(numberArray) {
 	var i = 0, j = i+1, sum = numberArray[0];
 
